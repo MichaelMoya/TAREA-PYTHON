@@ -1,0 +1,28 @@
+
+        #                   Name   Type 1  Type 2   HP  Attack  Defense  \
+0      1              Bulbasaur    Grass  Poison   45      49       49   
+1      2                Ivysaur    Grass  Poison   60      62       63   
+2      3  VenusaurMega Venusaur    Grass  Poison   80     100      123   
+3      4             Charmander     Fire     NaN   39      52       43   
+4      5             Charmeleon     Fire     NaN   58      64       58   
+..   ...                    ...      ...     ...  ...     ...      ...   
+784  717                Yveltal     Dark  Flying  126     131       95   
+785  718       Zygarde50% Forme   Dragon  Ground  108     100      121   
+786  719                Diancie     Rock   Fairy   50     100      150   
+788  720    HoopaHoopa Confined  Psychic   Ghost   80     110       60   
+790  721              Volcanion     Fire   Water   80     110      120   
+
+     Sp. Atk  Sp. Def  Speed  Generation  Legendary  
+0         65       65     45           1      False  
+1         80       80     60           1      False  
+2        122      120     80           1      False  
+3         60       50     65           1      False  
+4         80       65     80           1      False  
+..       ...      ...    ...         ...        ...  
+784      131       98     99           6       True  
+785       81       95     95           6       True  
+786      100      150     50           6       True  
+788      150      130     70           6       True  
+790      130       90     70           6       True  
+
+[721 rows x 12 columns]
